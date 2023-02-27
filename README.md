@@ -12,7 +12,7 @@
 <br>
 
 # My GitHub Stats
-[![Cannon Butler's github stats](https://github-readme-stats.vercel.app/api?username=clbutl)](https://github.com/anuraghazra/github-readme-stats)
+[![Cannon Butler's github stats](https://github-readme-stats-two-mu-18.vercel.app/api?username=clbutl)](https://github.com/anuraghazra/github-readme-stats)
 
 # Skill Set
 [![React.JS](https://img.shields.io/badge/React.JS-purple?style=for-the-badge&logoColor=white)](https://github.com/clbutl)
